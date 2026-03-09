@@ -700,7 +700,7 @@
     "correct": "東京は人が多くて、きれいです。",
     "explanation": "Use て-form to connect clauses. (Pattern set 5)",
     "id": 88,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
