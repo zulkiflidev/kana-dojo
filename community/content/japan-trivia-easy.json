@@ -690,5 +690,16 @@
     "Fukuoka"
   ],
   "correctIndex": 0
-}
+ },
+    {
+  "question": "Which Japanese dish is made of raw fish over rice? (Community variation 34)",
+  "difficulty": "easy",
+  "answers": [
+    "Sushi",
+    "Tempura",
+    "Tonkatsu",
+    "Okonomiyaki"
+  ],
+  "correctIndex": 0
+ }    
 ]
